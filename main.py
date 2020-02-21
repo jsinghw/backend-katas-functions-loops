@@ -66,8 +66,5 @@ def fibonacci(n):
 
 if __name__ == '__main__':
     # your code to call functions above
-    pass
-    print(fibonacci(1))
-    
-    """Should be 81"""
 
+    print(fibonacci(5))
